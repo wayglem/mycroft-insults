@@ -1,0 +1,7 @@
+{
+  "utterance": "bastard",
+  "intent_type": "InsultIntent",
+  "intent": {
+    "InsultKeyword": "bastard"
+  }
+}
